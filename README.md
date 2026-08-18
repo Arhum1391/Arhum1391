@@ -23,7 +23,7 @@ The through-line is integration: getting independent services to behave as one c
 
 ### `(02) / Selected work`
 
-Four platforms taken from an empty repository to production traffic.
+Five products taken from an empty repository to real users.
 
 | | Project | Role | What it actually does |
 |---|---|---|---|
@@ -31,6 +31,7 @@ Four platforms taken from an empty repository to production traffic.
 | **02** | **NFT Marketplace Platform** | Product & Engineering | End-to-end architecture for blockchain-based digital asset trading. Product planning through feature development to deployment: I owned the shape of the system as well as the code. |
 | **03** | **AI Hiring & ATS Platform** | AI & Automation Engineer | A hiring pipeline that runs itself. n8n pulls CVs straight out of the inbox, shortlists against the role, and books interviews without a recruiter touching a calendar. Vexa transcribes the call live, then AI grades it on behavioural and technical axes and hands back one confidence score. |
 | **04** | **Saudi Fintech Loan Management** | Full Stack Developer | Peer-to-peer lending for the Saudi market. Borrowers clear debt, lenders manage investments, banking APIs move real money in real time. The kind of project where an off-by-one is not a rounding error. |
+| **05** | **LeafLogic** | Mobile & ML Developer | A Flutter app that diagnoses plant disease from a photo of a leaf. A CNN fine-tuned on 50,000+ PlantVillage images, exported to TensorFlow Lite and running on the handset itself, so the diagnosis, confidence rating and organic treatment plan come back in seconds with no signal. Built for farmers, who tend not to have four bars in a field. |
 
 ---
 
@@ -44,18 +45,24 @@ Everything here has been used in something that shipped.
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0C?style=flat-square&logo=javascript&logoColor=EFEAE1)
 ![Java](https://img.shields.io/badge/Java-0A0A0C?style=flat-square&logo=openjdk&logoColor=EFEAE1)
 ![C++](https://img.shields.io/badge/C++-0A0A0C?style=flat-square&logo=cplusplus&logoColor=EFEAE1)
+![Dart](https://img.shields.io/badge/Dart-0A0A0C?style=flat-square&logo=dart&logoColor=EFEAE1)
 ![SQL](https://img.shields.io/badge/SQL-0A0A0C?style=flat-square&logo=mysql&logoColor=EFEAE1)
 
-**Web & Frameworks**
+**Frameworks**
 
 ![React](https://img.shields.io/badge/React.js-0A0A0C?style=flat-square&logo=react&logoColor=EFEAE1)
 ![Node.js](https://img.shields.io/badge/Node.js-0A0A0C?style=flat-square&logo=nodedotjs&logoColor=EFEAE1)
+![Flutter](https://img.shields.io/badge/Flutter-0A0A0C?style=flat-square&logo=flutter&logoColor=EFEAE1)
+![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0C?style=flat-square&logo=fastapi&logoColor=EFEAE1)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0A0A0C?style=flat-square&logo=tailwindcss&logoColor=EFEAE1)
 ![HTML5](https://img.shields.io/badge/HTML5-0A0A0C?style=flat-square&logo=html5&logoColor=EFEAE1)
 ![CSS3](https://img.shields.io/badge/CSS3-0A0A0C?style=flat-square&logo=css3&logoColor=EFEAE1)
 
 **AI & Automation**
 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0A0A0C?style=flat-square&logo=tensorflow&logoColor=EFEAE1)
+![TFLite](https://img.shields.io/badge/TFLite-0A0A0C?style=flat-square&logo=tensorflow&logoColor=EFEAE1)
+![OpenCV](https://img.shields.io/badge/OpenCV-0A0A0C?style=flat-square&logo=opencv&logoColor=EFEAE1)
 ![LLM Integration](https://img.shields.io/badge/LLM_Integration-0A0A0C?style=flat-square&logo=openai&logoColor=EFEAE1)
 ![n8n](https://img.shields.io/badge/n8n-0A0A0C?style=flat-square&logo=n8n&logoColor=EFEAE1)
 ![Vexa](https://img.shields.io/badge/Vexa-0A0A0C?style=flat-square&logoColor=EFEAE1)
@@ -101,6 +108,7 @@ Everything here has been used in something that shipped.
 - **Payments and subscriptions.** Stripe billing and Calendly scheduling, wired in end to end rather than bolted on.
 - **Fintech.** Banking API integrations carrying real transactions and real verification, with the failure paths designed on purpose.
 - **AI and workflow automation.** LLMs and n8n put to work on actual business processes, not demos.
+- **On-device machine learning.** CNNs trained, fine-tuned and squeezed into TFLite so they run on a phone rather than a server.
 - **Cloud hosting and deployment.** Getting it to production, and keeping it there.
 - **Cross-functional leadership.** Designers, QA and PMs pointed at the same milestone.
 
