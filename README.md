@@ -7,12 +7,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-open_to_opportunities-FF4A1C?style=flat-square&labelColor=0A0A0C" alt="Open to opportunities">
-  <img src="https://img.shields.io/badge/platforms_shipped-4-EFEAE1?style=flat-square&labelColor=0A0A0C" alt="4 platforms shipped">
-  <img src="https://img.shields.io/badge/missed_deadlines-0-EFEAE1?style=flat-square&labelColor=0A0A0C" alt="0 missed deadlines">
   <a href="https://arhum1391.github.io/portfolio/"><img src="https://img.shields.io/badge/portfolio-live-FF4A1C?style=flat-square&labelColor=0A0A0C" alt="Portfolio"></a>
 </p>
-
-<p align="center"><em>I turn 'what if?' into 'it's live.'</em></p>
 
 ---
 
@@ -22,9 +18,7 @@ I ship things that live in production.
 
 Full Stack Developer at **Ideofuzion**, BS Artificial Intelligence student at **COMSATS** (7th semester), and CS Department Lead at **ResearchCircle**. Somewhere in there I sleep.
 
-The through-line in my work is integration. Most of what I do is getting independent services to behave as one coherent system: defining the contracts between them, handling auth and asynchronous callbacks, and designing sensible failure paths for the moments a request never comes back. I work across the whole stack because those seams rarely sit neatly on one side of it.
-
-Put differently, I spend my days making services talk to each other that were never meant to meet.
+The through-line is integration: getting independent services to behave as one coherent system, and designing sensible failure paths for the moments a request never comes back. Mostly I spend my days making services talk to each other that were never meant to meet.
 
 ---
 
@@ -122,10 +116,5 @@ Everything here has been used in something that shipped.
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arhum1391&show_icons=true&hide_border=true&bg_color=0A0A0C&title_color=FF4A1C&text_color=EFEAE1&icon_color=FF4A1C" height="150" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arhum1391&layout=compact&hide_border=true&bg_color=0A0A0C&title_color=FF4A1C&text_color=EFEAE1" height="150" alt="Top languages">
-</div>
 
 <p align="center"><sub>Built from scratch. Still building.</sub></p>
