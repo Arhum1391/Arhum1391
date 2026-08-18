@@ -2,11 +2,10 @@
 
 <p align="center">
   <strong>Full Stack Developer</strong> &nbsp;/&nbsp; <em>AI Builder</em><br>
-  <sub>Islamabad, Pakistan &nbsp;·&nbsp; Remote / Onsite</sub>
+  <sub>Islamabad, Pakistan &nbsp;·&nbsp; Remote / Onsite &nbsp;·&nbsp; Open to opportunities</sub>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-open_to_opportunities-FF4A1C?style=flat-square&labelColor=0A0A0C" alt="Open to opportunities">
   <a href="https://arhum1391.github.io/portfolio/"><img src="https://img.shields.io/badge/portfolio-live-FF4A1C?style=flat-square&labelColor=0A0A0C" alt="Portfolio"></a>
 </p>
 
@@ -112,8 +111,13 @@ Everything here has been used in something that shipped.
 <p>
   <a href="https://arhum1391.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF4A1C?style=for-the-badge&logoColor=0A0A0C" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/arhum-fareed-b67353376/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0C?style=for-the-badge&logo=linkedin&logoColor=EFEAE1" alt="LinkedIn"></a>
-  <a href="mailto:arhumfareed01@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0C?style=for-the-badge&logo=gmail&logoColor=EFEAE1" alt="Email"></a>
 </p>
+
+Email, hover the block and hit copy:
+
+```
+arhumfareed01@gmail.com
+```
 
 ---
 
